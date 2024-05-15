@@ -15,7 +15,7 @@ if($check){
 echo "database created ";
 }
 else{
-echo "error";
+echo "database is not created";
 }
 
 $query1="CREATE TABLE student";
@@ -24,7 +24,8 @@ if($check1){
 echo "table is created ";
 }
 else{
-echo "error";
+echo "table is not created";
 }
+
 ?>
 
