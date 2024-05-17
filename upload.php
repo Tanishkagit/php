@@ -18,7 +18,7 @@
             echo "file uploaded successfully";
         }
         else{
-            echo "file is not uploaded"; 
+            echo "file is not uploaded";
         }
     }
     ?>
